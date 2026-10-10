@@ -6,7 +6,7 @@ Daylight helps you turn a spare 10, 20, or 30 minutes into an outdoor walking br
 
 Built for the **Touch Grass** hackathon theme—and as a hands-on project to practise React, browser AI, and deployment.
 
-🌿 **[Try Daylight](https://trackdaylight.netlify.app/)** · 💻 **[Source code](https://github.com/fabs-pe/daylight)**
+🌿 **[Try Daylight](https://trackdaylight.netlify.app/)** · 
 
 ## What you can do
 
